@@ -1,4 +1,4 @@
-# Calidad Práctica 2
+# Calidad Práctica 1
 
 *Tutorial básico de git en Eclipse*
 
