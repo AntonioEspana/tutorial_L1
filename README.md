@@ -2,7 +2,7 @@
 
 *Tutorial básico de git en Eclipse*
 
-![tarea](images/tarea.png)
+![tarea](img/tarea.png)
 <p></p>
 
 
